@@ -1,6 +1,6 @@
 # NNDL_ICP5
 
-video link : 
+video link : https://drive.google.com/file/d/1qMp0AlDs04nMVaic3msvU-CCeLWElk-6/view?usp=sharing
 
 Which algorithm you got better accuracy? Can you justify why?
 
